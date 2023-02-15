@@ -1,5 +1,5 @@
 {
-  "name": "easy-task/easy-task",
+  "name": "sumfen/easy-task",
   "description": "easy-task, simple timer, timing task",
   "keywords": [
     "easy-task"
@@ -8,8 +8,8 @@
   "license": "Apache-2.0",
   "authors": [
     {
-      "name": "GaoJiuFeng",
-      "email": "392223903@qq.com"
+      "name": "sumfen",
+      "email": "591636119@qq.com"
     }
   ],
   "require": {

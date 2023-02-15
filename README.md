@@ -1,4 +1,5 @@
-﻿<p><h4>EasyTask is an easy-to-use PHP resident memory scheduled task package</h4></p>
+﻿<p>基于 easy-task/easy-task ，去掉thinkphp3.2.3.php</p>
+<p><h4>EasyTask is an easy-to-use PHP resident memory scheduled task package</h4></p>
 <p align="">
 <a href="" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">
 <img src="https://www.gaojiufeng.cn/static/images/stable_version.svg" style="max-width:100%;">
